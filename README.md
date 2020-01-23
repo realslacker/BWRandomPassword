@@ -1,2 +1,3 @@
 # BWRandomPassword
-Random Password module for Powershell
+
+Generates one or more complex passwords designed to fulfill the requirements for Active Directory.
